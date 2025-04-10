@@ -47,8 +47,7 @@
 📈 GitHub Stats
 --
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaa3050&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
 </p>
 
 
