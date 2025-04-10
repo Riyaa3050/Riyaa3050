@@ -3,18 +3,42 @@
 💫 **About Me**  
 --
 🎓 Computer Engineering Student at CHARUSAT (CGPA: 9.55/10)  
-🤖 Passionate about **Machine Learning**, AI, and solving real-world problems through technology  
-🏆 Competitive Programmer | Hackathon Enthusiast | Tech Explorer
+👀 I’m interested in Machine learning,Python as well as AI & ML.
+🌱 I’m currently learning programming languages, ML related projects.
+💞️ I’m looking to collaborate on Machine Learning,AI.
+📫 How to reach me:[riyanavadiya141@gmail.com](mailto:riyanavadiya141@gmail.com)
 
+
+🌐 **Connect with Me**  
+--
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-navadia-100140289)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanavadiya141@gmail.com)
 
 
 🧠 **Technical Proficiency**  
 --
-**Programming:** Java, JavaScript, C/C++, Python  
-**Frameworks:** Flask, TensorFlow, Scikit-learn, Pandas, NumPy, Tesseract-OCR, OpenCV  
-**Tools & Technologies:** Machine Learning, Image Processing  
-**DevOps:** Git & GitHub  
-**Database:** Oracle, MySQL  
+## 💻 Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
 
 
 
@@ -59,8 +83,4 @@
 
 
 
-🌐 **Connect with Me**  
---
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-navadia-100140289)
-[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanavadiya141@gmail.com)
----
+
