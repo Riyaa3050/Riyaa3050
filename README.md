@@ -15,12 +15,13 @@
 
 🏆 Achievements
 --
-🏅 LeetCode Ace Badge(Weekly Ranking – 1950 in 75 days coding challenge)
-   ◦Solved 100+ challenges
-🏅NPTEL Certification : Data Structures and Algorithms(silver badge)
-🏅Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage
-🏅Machine Learning Certification – Kaggle
-🏅Conducted a knowledge-sharing session on ”Git & GitHub”
+🏅 LeetCode Ace Badge (Weekly Ranking – 1950 in 75 Days Coding Challenge)  
+   ◦ Solved 100+ challenges  
+🏅 NPTEL Certification: Data Structures and Algorithms (Silver Badge)  
+🏅 Tata Data Visualisation: Empowering Business with Effective Insights - Job Simulation on Forage  
+🏅 Machine Learning Certification – Kaggle  
+🏅 Conducted a knowledge-sharing session on "Git & GitHub"
+
 🚀 Projects
 --
 1.[**AI-Based Financial Fraud Detection**](https://github.com/Riyaa3050/Nirma-Hackathon)  
