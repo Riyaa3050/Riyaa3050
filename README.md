@@ -1,6 +1,7 @@
 ## Hi there, I'm Riya Navadia 👋
 
-##💫 About Me
+---
+💫 About Me
 
 🎓 **Computer Engineering Student** at CHARUSAT (CGPA: 9.55/10)  
 🤖 Passionate about **Machine Learning**, AI, and solving real-world problems through technology  
