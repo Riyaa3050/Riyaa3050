@@ -52,6 +52,10 @@
 --
 **Most Used Languages:**  
 🥇 Python &nbsp; ▪️ Flask ▪️ JavaScript ▪️ Java ▪️ C/C++ ▪️ HTML/CSS
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
+</p>
 
 
 
