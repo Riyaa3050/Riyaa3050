@@ -49,6 +49,15 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
 </p>
+
+📈 GitHub Stats
+
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riyaa3050&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+> 🐍 Most used language: **Python**
+
 🌐 Connect with Me
 --
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-navadia-100140289)
