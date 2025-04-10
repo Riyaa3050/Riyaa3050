@@ -49,14 +49,22 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
 </p>
+## 📈 GitHub Stats
 
-📈 GitHub Stats
+**Most Used Languages:**  
+🥇 Python &nbsp; ▪️ Flask ▪️ JavaScript ▪️ TypeScript ▪️ Java ▪️ C/C++ ▪️ HTML/CSS
 
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riyaa3050&show_icons=true&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riyaa3050&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-> 🐍 Most used language: **Python**
 
 🌐 Connect with Me
 --
