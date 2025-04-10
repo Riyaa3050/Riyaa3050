@@ -8,9 +8,13 @@
 🧠 Technical Proficiency
 --
 **Programming** : Java, JavaScript, C/C++, python
+
 **Frameworks**: Flask, TensorFlow, Scikit-learn,Pandas, NumPy, Tesseract-OCR , OpenCV
+
 **Tools and Technologies**: Machine Learning,Image Processing.
+
 **DevOps**: Git & GitHub
+
 **Database** : Oracle , MYSQL
 
 🏆 Achievements
