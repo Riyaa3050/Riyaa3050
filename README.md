@@ -49,7 +49,12 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
 </p>
+🌐 Connect with Me
+--
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/riya-navadia-100140289)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square)](https://github.com/Riyaa3050)  
+✉️ [riyanavadiya141@gmail.com](mailto:riyanavadiya141@gmail.com)
 
 <!--
 **Riyaa3050/Riyaa3050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
