@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Riya Navadia 👋
+
+💫 About Me
+
+🎓 **Computer Engineering Student** at CHARUSAT (CGPA: 9.55/10)  
+🤖 Passionate about **Machine Learning**, AI, and solving real-world problems through technology  
+🏆 Competitive Programmer | Hackathon Enthusiast | Tech Explorer
 
 <!--
 **Riyaa3050/Riyaa3050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
