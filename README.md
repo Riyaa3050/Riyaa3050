@@ -20,7 +20,7 @@
 🏆 Achievements
 --
 🏅 LeetCode Ace Badge (Weekly Ranking – 1950 in 75 Days Coding Challenge)  
-   ◦ Solved 100+ challenges  
+     ◦ Solved 100+ challenges  
 🏅 NPTEL Certification: Data Structures and Algorithms (Silver Badge)  
 🏅 Tata Data Visualisation: Empowering Business with Effective Insights - Job Simulation on Forage  
 🏅 Machine Learning Certification – Kaggle  
@@ -47,7 +47,6 @@
 📈 GitHub Stats
 --
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyaa3050&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaa3050&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaa3050&layout=compact&theme=radical" height="150"/>
 </p>
