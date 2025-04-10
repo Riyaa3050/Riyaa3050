@@ -51,12 +51,10 @@
 </p>
 🌐 Connect with Me
 --
-### 🌐 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-navadia-100140289)
 [![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanavadiya141@gmail.com)
 
-
+---
 <!--
 **Riyaa3050/Riyaa3050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
