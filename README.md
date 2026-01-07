@@ -2,7 +2,7 @@
 
 💫 **About Me**  
 --
-🎓 Computer Engineering Student at CHARUSAT (CGPA: 9.55/10)  
+🎓 Computer Engineering Student at CHARUSAT (CGPA: 9.84/10)  
 👀 I’m interested in Machine learning,Python as well as AI & ML.
 🌱 I’m currently learning programming languages, ML related projects.
 💞️ I’m looking to collaborate on Machine Learning,AI.
