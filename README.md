@@ -64,7 +64,7 @@
   _Tech:_ Python, Flask, OpenCV, Tesseract  
 
 3. PlantTraits   
-  Leveraged over 65,000+ images from iNaturalist database paired with decades of curated plant trait data across species. 
+  Leveraged over 65,000+ images from iNaturalist database paired with decades of curated plant trait data across species.           
   _Tech:_ Computer Vision, Deep Learning
 
 4. [**Book Recommendation System**](https://github.com/Riyaa3050/BookRecommendation)  
