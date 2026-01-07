@@ -63,9 +63,10 @@
   Convert images to editable text using Tesseract OCR  
   _Tech:_ Python, Flask, OpenCV, Tesseract  
 
-3. [**House Price Prediction**](https://github.com/Riyaa3050/House-Prediction)  
-  ML model for predicting house prices using regression techniques  
-  _Tech:_ Python, Scikit-Learn, Pandas, NumPy  
+3. [**PlantTraits **]  
+  Leveraged over 65,000+ images from the iNaturalist database paired with decades of curated plant trait data across
+  species. 
+  _Tech:_ Computer Vision, Deep Learning
 
 4. [**Book Recommendation System**](https://github.com/Riyaa3050/BookRecommendation)  
   Predicts personalized book suggestions based on user interest using ML regression models  
