@@ -63,7 +63,7 @@
   Convert images to editable text using Tesseract OCR  
   _Tech:_ Python, Flask, OpenCV, Tesseract  
 
-3. [**PlantTraits **]  
+3. PlantTraits   
   Leveraged over 65,000+ images from the iNaturalist database paired with decades of curated plant trait data across
   species. 
   _Tech:_ Computer Vision, Deep Learning
